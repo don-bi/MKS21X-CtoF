@@ -1,3 +1,7 @@
+//The functions should have the unit they are converting as parameters, with celsius for celsiusToFahrenheit
+//and fahrenheit for fahrenheitToCelsius.
+//The functions should return the other unit celsius/fahrenheit that the arguments would be converted to.
+
 public class CtoFTester{
   public static void main(String[] args){
     System.out.println("celsiusToFahrenheit test:");
