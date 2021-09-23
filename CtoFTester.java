@@ -1,4 +1,4 @@
-public class CtoF{
+public class CtoFTester{
   public static void main(String[] args){
     System.out.println("celsiusToFahrenheit test:");
     System.out.println(celsiusToFahrenheit(50.0));
