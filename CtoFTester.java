@@ -7,12 +7,12 @@ public class CtoF{
   }
 
   public static double celsiusToFahrenheit(double celsius){
-    fahrenheit = celsius * (9.0 / 5.0) + 32.0;
+    double fahrenheit = celsius * (9.0 / 5.0) + 32.0;
     return fahrenheit;
   }
 
   public static double fahrenheitToCelsius(double fahrenheit){
-    celsius = (fahrenheit - 32.0) * (5.0 / 9.0);
+    double celsius = (fahrenheit - 32.0) * (5.0 / 9.0);
     return celsius;
   }
 }
